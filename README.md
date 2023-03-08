@@ -1,6 +1,6 @@
 # Corretor_Ortografico_Com_NLP
 
-Corretor ortográfico com Processamento de linguagem natural. O objetivo da implementação do código foi para ser utilizado na automação de uma tarefa que exerço na empresa que atualmente trabalho.
+Corretor ortográfico com técnicas de processamento de linguagem natural. O objetivo da implementação do código foi para ser utilizado na automação de uma tarefa que exerço na empresa que atualmente trabalho.
 
 As palavras utilizadas para treinar o corretor não foram disponibilizadas nesse projeto, visto que são informações confidenciais da empresa.
 
